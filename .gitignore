@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# BA data and literature
+Daten/
+Max Wolters/
+Literatur/
+
+# Large/raw measurement exports
+*.TXT
+*.txt.TXT
+*.EPS
+*.LOG
+*.MSG
