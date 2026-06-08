@@ -1,0 +1,49 @@
+Measurement : All independent quantities ok
+Measurement : Measurement started
+Analyzer    : |V1|=1.01e+00V |V2|=6.22e-01V R1=6 R2=5
+Interface   : Calibration(s) : Low loss correction  Low ZLS 
+Interface   : Zs (no Ref) C=1.16e-10 F, R=5.77e+06 Ohms, tan=2.37e-02
+Measurement : Measured value ok
+Measurement : Set ac voltage 1.000 V
+Interface   : Wait 0.2s, tx=0.0s, ts=0.0s
+Measurement : Measurement started
+Interface   : Calibration(s) : Low loss correction  
+Interface   : Zs (Ref) C=1.1600e-10 F, R=5.85e+06 Ohms, tan=2.34e-02
+Analyzer    : |V1|=1.01e+00V |V2|=6.49e-01V R1=6 R2=5
+Measurement : Reference value ok
+Measurement : Sample    V1=1.008V 0.000° V2=6.224e-01V -123.340°
+Measurement : Reference V1=1.008V 0.000° V2=6.485e-01V -122.011°
+Interface   : Calibration(s) : Low loss correction  
+Measurement : DK data saved to file C:\Max Wolters\PEI25K_5MGML_S1M3.EPS
+
+Analyzer    : Set frequency 3.1737e+03 Hz
+Interface   : Set sample
+Interface   : Wait 0.2s, tx=0.0s, ts=0.0s
+Analyzer    : |V1|=1.01e+00V |V2|=4.18e-01V R1=6 R2=5
+Interface   : Calibration(s) : Low loss correction  Low ZLS 
+Interface   : Zs (no Ref) C=5.15e-10 F, R=5.17e+05 Ohms, tan=4.61e-02
+Measurement : Measured value ok
+Measurement : Set ac voltage 1.000 V
+Interface   : Wait 0.2s, tx=0.0s, ts=0.0s
+Measurement : Measurement started
+Interface   : Calibration(s) : Low loss correction  
+Interface   : Zs (Ref) C=5.1613e-10 F, R=5.13e+05 Ohms, tan=4.64e-02
+Analyzer    : |V1|=1.01e+00V |V2|=3.88e-01V R1=6 R2=5
+Measurement : Reference value ok
+Measurement : Sample    V1=1.007V 0.000° V2=4.185e-01V -97.322°
+Measurement : Reference V1=1.008V 0.000° V2=3.880e-01V -94.672°
+Interface   : Calibration(s) : Low loss correction  
+Measurement : DK data saved to file C:\Max Wolters\PEI25K_5MGML_S1M8.EPS
+
+Analyzer    : Set frequency 1.9462e+04 Hz
+Interface   : Set sample
+Interface   : Wait 0.2s, tx=0.0s, ts=0.0s
+Measurement : All independent quantities ok
+Measurement : Measurement started
+Analyzer    : |V1|=1.00e+00V |V2|=6.17e-01V R1=6 R2=5
+Interface   : Calibration(s) : Low loss correction  Low ZLS 
+Interface   : Zs (no Ref) C=5.09e-10 F, R=2.80e+05 Ohms, tan=5.74e-02
+Measurement : Measured value ok
+Measurement : Set ac voltage 1.000 V
+Interface   : Wait 0.2s, tx=0.0s, ts=0.0s
+Measurement : Measurement started

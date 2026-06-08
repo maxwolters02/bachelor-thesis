@@ -24,10 +24,3 @@ wheels/
 Daten/
 Max Wolters/
 Literatur/
-
-# Large/raw measurement exports
-*.TXT
-*.txt.TXT
-*.EPS
-*.LOG
-*.MSG
