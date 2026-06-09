@@ -7,12 +7,6 @@ resolution-markers = [
     "sys_platform != 'emscripten' and sys_platform != 'win32'",
 ]
 
-[manifest]
-members = [
-    "ba",
-    "ba-code",
-]
-
 [[package]]
 name = "appnope"
 version = "0.1.4"
@@ -53,11 +47,6 @@ requires-dist = [
 
 [package.metadata.requires-dev]
 dev = [{ name = "ipykernel", specifier = ">=7.2.0" }]
-
-[[package]]
-name = "ba-code"
-version = "0.1.0"
-source = { virtual = "Code/ba-code" }
 
 [[package]]
 name = "cffi"
