@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv-jupyter\\Scripts\\python.exe"
+}
