@@ -1,0 +1,37 @@
+{
+  "created_at": "2026-07-01T16:35:13",
+  "manipulation_name": "manual_v1",
+  "selected_file": "PEI5mgmL_90°C_Abs.TXT",
+  "material_filter": "PEI5mgmL",
+  "manual_derivative_removals": [
+    {
+      "enabled": true,
+      "reason": "Zweiter Ableitungspunkt von hinten 90C Abs manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "90°C",
+      "mode": "Abs",
+      "derivative_point_from_end": -2
+    },
+    {
+      "enabled": true,
+      "reason": "Dritter Ableitungspunkt von hinten 90C Abs manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "90°C",
+      "mode": "Abs",
+      "derivative_point_from_end": -3
+    },
+    {
+      "enabled": true,
+      "reason": "Zweiter Ableitungspunkt von vorne 90C Abs manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "90°C",
+      "mode": "Abs",
+      "derivative_point_index": 1
+    }
+  ],
+  "written_files": [
+    "c:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_90°C_Abs_manipulated.csv",
+    "c:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_90°C_Abs_removed_derivative_points.csv",
+    "c:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_90°C_Abs_manual_summary.csv"
+  ]
+}

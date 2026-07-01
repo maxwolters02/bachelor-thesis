@@ -1,0 +1,29 @@
+{
+  "created_at": "2026-07-01T15:05:12",
+  "manipulation_name": "manual_v1",
+  "selected_file": "PEI5mgmL_50°C_Des.TXT",
+  "material_filter": "PEI5mgmL",
+  "manual_derivative_removals": [
+    {
+      "enabled": true,
+      "reason": "Vorletzter Ableitungspunkt 50C Des manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "50°C",
+      "mode": "Des",
+      "derivative_point_from_end": -2
+    },
+    {
+      "enabled": true,
+      "reason": "Zweiter Ableitungspunkt 50C Des manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "50°C",
+      "mode": "Des",
+      "derivative_point_index": 1
+    }
+  ],
+  "written_files": [
+    "C:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_50°C_Des_manipulated.csv",
+    "C:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_50°C_Des_removed_derivative_points.csv",
+    "C:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_50°C_Des_manual_summary.csv"
+  ]
+}

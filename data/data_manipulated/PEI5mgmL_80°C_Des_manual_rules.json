@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-01T16:25:51",
+  "manipulation_name": "manual_v1",
+  "selected_file": "PEI5mgmL_80°C_Des.TXT",
+  "material_filter": "PEI5mgmL",
+  "manual_derivative_removals": [
+    {
+      "enabled": true,
+      "reason": "Zweiter Ableitungspunkt von hinten 80C Des manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "80°C",
+      "mode": "Des",
+      "derivative_point_from_end": -2
+    },
+    {
+      "enabled": true,
+      "reason": "Dritter Ableitungspunkt von hinten 80C Des manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "80°C",
+      "mode": "Des",
+      "derivative_point_from_end": -3
+    },
+    {
+      "enabled": true,
+      "reason": "Zweiter Ableitungspunkt von vorne 80C Des manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "80°C",
+      "mode": "Des",
+      "derivative_point_index": 1
+    },
+    {
+      "enabled": true,
+      "reason": "Vierter Ableitungspunkt von hinten 80C Des zwischen 3898.4s und 4786.0s manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "80°C",
+      "mode": "Des",
+      "time_min_s": 3898.4,
+      "time_max_s": 4786.0,
+      "derivative_point_from_end": -4
+    },
+    {
+      "enabled": true,
+      "reason": "Fuenfter Ableitungspunkt von hinten 80C Des ab 4701.1s manuell entfernt",
+      "material": "PEI5mgmL",
+      "temperature": "80°C",
+      "mode": "Des",
+      "time_min_s": 4701.1,
+      "derivative_point_from_end": -5
+    }
+  ],
+  "written_files": [
+    "c:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_80°C_Des_manipulated.csv",
+    "c:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_80°C_Des_removed_derivative_points.csv",
+    "c:\\Users\\Max\\Documents\\bachelor thesis\\data\\data_manipulated\\PEI5mgmL_80°C_Des_manual_summary.csv"
+  ]
+}
